@@ -527,7 +527,7 @@
       <origin xyz="0 0 0" rpy="0 0 0"/>
       <geometry>
         <mesh filename="../meshes/head_link.STL"/>
-      </geometry>
+      </geometry>  
       <material name="dark"/>
     </visual>
     <collision>
